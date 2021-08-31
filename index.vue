@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <div class="error">
+      1111111
       您没有当前页面的权限,请<span class="click" @click="handleClick"> 点击 </span>前往有权限的页面
     </div>
   </div>
